@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi!+I'm+Muhammad+Aliff+Huzaiman;Software+Engineering+Student+at+UM;Passionate+about+Backend+Development;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<img src="aliphuz(2).jpg" alt="Muhammad Aliff Huzaiman" width="200" style="border-radius: 50%; border: 4px solid #2196F3;">
+<img src="aliphuz(2).png" alt="Muhammad Aliff Huzaiman" width="200" style="border-radius: 50%; border: 4px solid #2196F3;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahuzaiman@gmail.com)
@@ -38,8 +38,8 @@ I am a final-year Bachelor of Software Engineering (BSE) student at the Universi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliphuz&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliphuz&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
 </div>
 
 ---
