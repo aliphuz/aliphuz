@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a final-year Bachelor of Software Engineering (BSE) student at the University of Malaya currently taking the Software Maintenance and Evolution course[cite: 1]. I have a strong foundation in programming, networking, and systems design, and I am passionate about building projects and collaborating with others to deliver meaningful solutions[cite: 1]. 
+I am a final-year Bachelor of Software Engineering (BSE) student at the University of Malaya currently taking the Software Maintenance and Evolution course[cite: 1]. I have a strong foundation in programming, networking, and systems design, and I am passionate about building projects and collaborating with others to deliver meaningful solutions. 
 
 * **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 * **Goals**: I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
@@ -30,8 +30,8 @@ I am a final-year Bachelor of Software Engineering (BSE) student at the Universi
 
 <br>
 
-* **Frameworks & Architecture:** .NET 8, Clean Architecture, Dapper, Kafka[cite: 3]
-* **Networking Foundations:** VLANs, DHCP, IP Addressing, Subnetting[cite: 3]
+* **Frameworks & Architecture:** .NET 8, Clean Architecture, Dapper, Kafka
+* **Networking Foundations:** VLANs, DHCP, IP Addressing, Subnetting
 
 ---
 
@@ -47,11 +47,11 @@ I am a final-year Bachelor of Software Engineering (BSE) student at the Universi
 ### 💼 Experience
 
 * **Software Engineering Intern | Maybank** *(Sept 2025 - Jan 2026)*[cite: 1]
-  * Developed the backend for the CDN-FreelancerAPI project utilizing .NET 8, C#, Clean Architecture, and Dapper[cite: 1].
-  * Managed version control and documented progress via GitHub throughout the internship project lifecycle[cite: 1].
-* **Software Support Intern | IDynamics** *(Jul 2025 - Sept 2025)*[cite: 1]
-  * Troubleshot technical problems to identify root causes, subsequently applying and testing reliable software fixes prior to deployment[cite: 1].
-  * Documented customer feedback and maintained accurate records of all support activities to drive continuous service improvement[cite: 1].
+  * Developed the backend for the CDN-FreelancerAPI project utilizing .NET 8, C#, Clean Architecture, and Dapper.
+  * Managed version control and documented progress via GitHub throughout the internship project lifecycle.
+* **Software Support Intern | IDynamics** *(Jul 2025 - Sept 2025)*
+  * Troubleshot technical problems to identify root causes, subsequently applying and testing reliable software fixes prior to deployment.
+  * Documented customer feedback and maintained accurate records of all support activities to drive continuous service improvement.
 
 ---
 
@@ -59,16 +59,16 @@ I am a final-year Bachelor of Software Engineering (BSE) student at the Universi
 
 | Project | Description | Technologies |
 |---|---|---|
-| **CCM Migration**[cite: 1] | Contributed to the CCM system migration from V1 to V2, resolved a Clickjacking vulnerability within the BFF layer, and debugged Kafka consumer issues to unblock template migrations[cite: 1, 2]. | `.NET`, `C#`, `Kafka`, `SQL`[cite: 1] |
-| **Carbon Track**[cite: 2] | Developed a mobile app to help users log and monitor their daily carbon footprint from transport, energy, and food usage to promote sustainability[cite: 2]. | `Android Studio`, `Java`[cite: 2] |
-| **Grab Voice Assistant**[cite: 2] | Built a prototype to help Grab drivers access earnings and traffic hands-free using NLP to handle slang and short commands[cite: 2]. | `Python`, `gTTS`, `Google Cloud TTS`[cite: 2] |
-| **KPI Dashboard**[cite: 2] | Built a responsive web platform to monitor academic KPIs for students and lecturers, featuring login systems and real-time performance charts[cite: 2]. | `HTML`, `CSS`, `JavaScript`[cite: 2] |
+| **CCM Migration** | Contributed to the CCM system migration from V1 to V2, resolved a Clickjacking vulnerability within the BFF layer, and debugged Kafka consumer issues to unblock template migrations. | `.NET`, `C#`, `Kafka`, `SQL` |
+| **Carbon Track** | Developed a mobile app to help users log and monitor their daily carbon footprint from transport, energy, and food usage to promote sustainability. | `Android Studio`, `Java` |
+| **Grab Voice Assistant** | Built a prototype to help Grab drivers access earnings and traffic hands-free using NLP to handle slang and short commands. | `Python`, `gTTS`, `Google Cloud TTS` |
+| **KPI Dashboard** | Built a responsive web platform to monitor academic KPIs for students and lecturers, featuring login systems and real-time performance charts. | `HTML`, `CSS`, `JavaScript` |
 
 ---
 
 ### 🤝 Leadership & Community
-* **Public Relations & Visibility:** Managed media portfolios for Jawatankuasa Pelajar Luar Kampus (JPLK) and directed the Prihatin Inderaloka program[cite: 2].
-* **Head of Vendor (Festival MKAI):** Coordinated vendor operations, recruitment, and logistics while driving PR initiatives[cite: 2].
-* **Project Director (Za'ba Spiritour):** Led a team of 30 in organizing interfaith visits to religious sites for over 60 participants[cite: 2, 3].
-* **Head of Sales Booth (FESKUM):** Coordinated over 50 vendors and oversaw sales operations during University Malaya convocation week[cite: 3].
-* **YTP Mara Scholar:** Awarded a competitive scholarship for academic excellence and leadership potential[cite: 2].
+* **Public Relations & Visibility:** Managed media portfolios for Jawatankuasa Pelajar Luar Kampus (JPLK) and directed the Prihatin Inderaloka program.
+* **Head of Vendor (Festival MKAI):** Coordinated vendor operations, recruitment, and logistics while driving PR initiatives.
+* **Project Director (Za'ba Spiritour):** Led a team of 30 in organizing interfaith visits to religious sites for over 60 participants.
+* **Head of Sales Booth (FESKUM):** Coordinated over 50 vendors and oversaw sales operations during University Malaya convocation week.
+* **YTP Mara Scholar:** Awarded a competitive scholarship for academic excellence and leadership potential.
