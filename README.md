@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a final-year Bachelor of Software Engineering (BSE) student at the University of Malaya currently taking the Software Maintenance and Evolution course[cite: 1]. I have a strong foundation in programming, networking, and systems design, and I am passionate about building projects and collaborating with others to deliver meaningful solutions. 
+I am a final-year Bachelor of Software Engineering (BSE) student at the University of Malaya currently taking the Software Maintenance and Evolution course. I have a strong foundation in programming, networking, and systems design, and I am passionate about building projects and collaborating with others to deliver meaningful solutions. 
 
 * **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 * **Goals**: I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
