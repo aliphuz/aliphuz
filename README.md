@@ -46,7 +46,7 @@ I am a final-year Bachelor of Software Engineering (BSE) student at the Universi
 
 ### 💼 Experience
 
-* **Software Engineering Intern | Maybank** *(Sept 2025 - Jan 2026)*[cite: 1]
+* **Software Engineering Intern | Maybank** *(Sept 2025 - Jan 2026)*
   * Developed the backend for the CDN-FreelancerAPI project utilizing .NET 8, C#, Clean Architecture, and Dapper.
   * Managed version control and documented progress via GitHub throughout the internship project lifecycle.
 * **Software Support Intern | IDynamics** *(Jul 2025 - Sept 2025)*
